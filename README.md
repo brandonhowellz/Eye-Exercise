@@ -1,6 +1,6 @@
 # Eye-Exercise
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-# Descriptoin
+# Description
 Webpage that showcases eye pupils tracking mouse cursor movement
 # How to Run
 <ol>
